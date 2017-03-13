@@ -1,0 +1,1 @@
+javascript:(function()%7Bfunction inject()%7Bvar d%3Ddocument%2Chost%3D'use.explaain.com'%2Cz%3Dd.createElement('scr'%2B'ipt')%2Cb%3Dd.body%2Cl%3Dd.location%3Btry%7Bif(!b)throw(0)%3Bz.setAttribute('src'%2Cl.protocol%2B'%2F%2F'%2Bhost%2B'%2Fexplaain.js')%3Bb.appendChild(z)%7Dcatch(e)%7Balert('Please wait until the page has loaded.')%3B%7D%7Dinject()%3Bvoid(0)%7D)()%3B
